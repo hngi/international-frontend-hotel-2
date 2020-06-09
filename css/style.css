@@ -66,6 +66,7 @@ hr {
 .white-hr {
   border-color: #fff;
   width: 20%;
+  margin: 2% auto;
 }
 .footer-icon {
   color: #fff;
@@ -82,7 +83,7 @@ hr {
 
 /* Margaret's css codes */
 .roomsNrates{
-  margin-top: 3%;
+  margin-top: 50px;
 }
 .room {
   margin: 50px 100px;
@@ -96,22 +97,28 @@ hr {
 
 }
 .black-card{
-  background-color: #000000;
+  background-color: #575454;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
 }
 .image{
-  margin-top: -50px 
+  margin-top: -50px; 
 }
-
 .right {
   flex: 1 1 0;
   padding: 60px;
 }
+.price{
+  /* margin: -20px;
+  z-index: 3; */
+  border-radius: 50px;
+  background-color: #575454;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
 
-
-
+}
 .card-below {
   border: 3px solid  #1b1b1ba9;
   margin: -250px -30px 0;
@@ -132,21 +139,26 @@ hr {
   margin-top: 50px;
 }
 
-/* .book-btn,
+.book-btn,
 .price {
   margin-top: 50px;
   padding: 10px 20px;
   border-radius: 10px;
-  border: 3px solid indigo;
-  background:indigo;
+  border: 3px solid #575454;
+  background:#575454;
   color: white;
 }
 .book-btn:hover{
   background: unset;
-  color: indigo; 
-} */
+  color: #575454; 
+}
 @media screen and (max-width: 1024px) {
   .room{
     display: block;
+  }
+}
+@media screen and (max-width: 600px) {
+  .right{
+    padding: 7px;
   }
 }
