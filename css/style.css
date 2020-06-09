@@ -37,9 +37,7 @@ p {
 .big-heading {
   font-size: 7rem;
   color: #fff;;
-}
-.section-heading {
-    font-size: 2.5rem;
+
 }
 @media (max-width: 1028px) {
     .big-heading {
@@ -60,7 +58,6 @@ hr {
     border-style: solid none none;
     border-width: 4px;
     border-color: #000;
-
 }
 .footer {
   background-color: #575454;
@@ -74,13 +71,3 @@ hr {
   color: #fff;
   margin: 0 2%;
 }
-
-
-
-/* -------------Margaret CSS Codes-------------- */
-/* Write your codes here: */
-
-
-
-/* ---------Hadeel CSS Codes------------------------ */
-/* Write your codes here: */
