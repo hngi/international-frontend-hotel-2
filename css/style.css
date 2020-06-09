@@ -66,6 +66,7 @@ hr {
 .white-hr {
   border-color: #fff;
   width: 20%;
+  margin: 2% auto;
 }
 .footer-icon {
   color: #fff;
@@ -102,9 +103,8 @@ hr {
   padding-top: 20px;
 }
 .image{
-  margin-top: -50px 
+  margin-top: -50px; 
 }
-
 .right {
   flex: 1 1 0;
   padding: 60px;
@@ -132,19 +132,19 @@ hr {
   margin-top: 50px;
 }
 
-/* .book-btn,
+.book-btn,
 .price {
   margin-top: 50px;
   padding: 10px 20px;
   border-radius: 10px;
-  border: 3px solid indigo;
-  background:indigo;
+  border: 3px solid #575454;
+  background:#575454;
   color: white;
 }
 .book-btn:hover{
   background: unset;
-  color: indigo; 
-} */
+  color: #575454; 
+}
 @media screen and (max-width: 1024px) {
   .room{
     display: block;
