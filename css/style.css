@@ -99,19 +99,16 @@ hr {
 
 }
 
-.image>img {
-  border-radius: 10px;
-}
+
 
 .card-below {
-  border: 2px solid #e4e1e149;
-  background: #e2b4eba9;
-  border-radius: 10px;
+  border: 3px solid  #1b1b1ba9;
   margin: -250px -30px 0;
   height: 350px;
 }
 
-.room-title {
+.room-title,
+.book-btn{
   font-weight: 600;
   font-size: 1.2rem;
   margin-bottom: 50px;
@@ -120,8 +117,11 @@ hr {
 .descrip {
   text-align: left;
 }
+.book-btn{
+  margin-top: 50px;
+}
 
-.book-btn,
+/* .book-btn,
 .price {
   margin-top: 50px;
   padding: 10px 20px;
@@ -133,7 +133,7 @@ hr {
 .book-btn:hover{
   background: unset;
   color: indigo; 
-}
+} */
 @media screen and (max-width: 1024px) {
   .room{
     display: block;
