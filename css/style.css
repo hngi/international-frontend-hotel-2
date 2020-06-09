@@ -96,7 +96,7 @@ hr {
 
 }
 .black-card{
-  background-color: #000000;
+  background-color: #575454;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
@@ -109,9 +109,16 @@ hr {
   flex: 1 1 0;
   padding: 60px;
 }
+.price{
+  /* margin: -20px;
+  z-index: 3; */
+  border-radius: 50px;
+  background-color: #575454;
+  border: none;
+  color: #ffffff;
+  padding: 5px 20px;
 
-
-
+}
 .card-below {
   border: 3px solid  #1b1b1ba9;
   margin: -250px -30px 0;
@@ -148,5 +155,10 @@ hr {
 @media screen and (max-width: 1024px) {
   .room{
     display: block;
+  }
+}
+@media screen and (max-width: 600px) {
+  .right{
+    padding: 7px;
   }
 }
