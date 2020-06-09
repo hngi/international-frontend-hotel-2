@@ -4,6 +4,7 @@
 2. anash udn
 3. m tee
 4. Asifiwe Manzi
+5. Manuel Rodriguez Romero
 
 # Member tasks:
 1. Page one for Anash
