@@ -1,7 +1,7 @@
 # international-frontend-hotel-2
  # Team members :
 1. Hadeel Salah 
-2. anash udn
+2. Anash Uddin
 3. m tee
 4. Asifiwe Manzi
 5. FrancisTawiah
