@@ -81,6 +81,9 @@ hr {
 }
 
 /* Margaret's css codes */
+.roomsNrates{
+  margin-top: 3%;
+}
 .room {
   margin: 50px 100px;
   display: flex;
