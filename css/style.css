@@ -162,3 +162,58 @@ hr {
     padding: 7px;
   }
 }
+
+
+/* FrancisTawiah Codes for Facilities */
+.facilities {
+    background: #706C6C; 
+    height: 50vh;
+  
+}
+p.facilities-title {
+   
+        
+    padding-top: 50px;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 87px;
+    text-align: center;
+    color: #fff;
+}
+
+
+#facilities-display
+{
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.facilities-content
+{
+    padding-top: 20px;
+    font-family: "Open Sans";
+    font-style: 30px;
+    font-weight: normal;
+    
+}
+
+
+.facilities-content-2
+{
+    padding-top: 20px;
+    font-family: "Open Sans";
+    font-style: 30px;
+    font-weight: normal;
+    
+}
+
+.makeBorder
+{
+    border:1px solid #000;
+    padding: 40px;
+}
+
+
+
