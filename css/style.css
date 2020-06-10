@@ -68,6 +68,10 @@ hr {
   width: 20%;
   margin: 2% auto;
 }
+.facility-hr {
+  border-color: #fff;
+  width: 20%;
+}
 .footer-icon {
   color: #fff;
   margin: 0 2%;
@@ -80,7 +84,16 @@ hr {
   color: #fff;
   font-size: 2.5rem;
 }
-
+.about {
+  background-color: #F1F1EE;
+  padding: 2%;
+}
+.about-hr {
+  width: 10%;
+}
+.team {
+  background-color: #fff;
+}
 /* Margaret's css codes */
 .roomsNrates{
   margin-top: 50px;
@@ -172,8 +185,8 @@ hr {
 p.facilities-title {
  
       
-  padding-top: 50px;
-  font-family: "Open Sans";
+  padding-top: 80px;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 300;
   font-size: 64px;
@@ -192,20 +205,18 @@ p.facilities-title {
 .facilities-content
 {
   padding-top: 20px;
-  font-family: "Open Sans";
+  font-family: "Roboto", sans-serif;
   font-style: 30px;
   font-weight: normal;
-  
 }
 
 
 .facilities-content-2
 {
   padding-top: 20px;
-  font-family: "Open Sans";
+  font-family: "Roboto", sans-serif;
   font-style: 30px;
   font-weight: normal;
-  
 }
 
 .makeBorder
