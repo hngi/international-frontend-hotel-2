@@ -1,10 +1,10 @@
 # international-frontend-hotel-2
  # Team members :
-1. Hadeel Salah 
-2. Anash Uddin
-3. m tee
-4. Asifiwe Manzi
-5. FrancisTawiah
+1. Hadeel Salah  https://github.com/hadeelsala7
+2. Anash Uddin   https://github.com/anashzzz
+3. m tee         https://github.com/M-Tee
+4. Asifiwe Manzi https://github.com/AsifiweM
+5. FrancisTawiah https://github.com/CodeitSoft-Tech
 
 # Member tasks:
 1. Page one for Anash
